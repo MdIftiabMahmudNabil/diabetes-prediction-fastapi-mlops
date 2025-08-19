@@ -4,7 +4,7 @@ import streamlit as st
 import requests
 
 # Configure the API endpoint
-API_URL = "http://localhost:8000"  # Change to your Render URL when deployed, e.g., "https://diabetes-prediction-api.onrender.com"
+API_URL = "https://diabetes-prediction-fastapi-mlops.onrender.com"
 
 st.title("Diabetes Prediction App")
 st.write("Enter the patient data below and click **Predict** to see if the model predicts diabetes.")
