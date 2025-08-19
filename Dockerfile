@@ -12,7 +12,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # 4. Copy everything else (main.py, model, schemas, etc.)
 COPY ./app ./app
-COPY ./model ./model
+COPY ./ml ./ml
 
 # 5. Run FastAPI app
 CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
