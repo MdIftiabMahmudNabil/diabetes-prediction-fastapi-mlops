@@ -1,6 +1,6 @@
 # Diabetes Prediction — FastAPI + scikit-learn + Streamlit
 
-End-to-end assignment: train a classifier on the **Pima Indians Diabetes** dataset, serve it via an **async FastAPI** API, containerize with **Docker**, deploy on **Render**, and provide a **Streamlit** and **HTML/JS** frontend.
+End-to-end assignment: train a classifier on the **Pima Indians Diabetes** dataset, serve it via an **async FastAPI** API, containerize with **Docker**, deploy on **Render**, and provide a **Streamlit**.
 
 ## Live URLs
 
