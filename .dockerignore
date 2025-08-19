@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+.venv/
+.git/
+.gitignore
+data/           # dataset not needed at runtime
+tests/
