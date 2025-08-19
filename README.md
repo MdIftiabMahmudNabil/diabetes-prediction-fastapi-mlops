@@ -97,7 +97,6 @@ data/diabetes.csv
 python ml/train.py
 # creates: ml/diabetes_model.pkl and ml/metrics.json
 ```
-##  4) Run the API
 ## 4) Run the API
 Start the FastAPI server:
 ```bash
